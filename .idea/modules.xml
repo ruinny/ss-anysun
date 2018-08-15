@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MyProject/.idea/MyProject.iml" filepath="$PROJECT_DIR$/../MyProject/.idea/MyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/anysun.iml" filepath="$PROJECT_DIR$/.idea/anysun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bing-qi/.idea/bing-qi.iml" filepath="$PROJECT_DIR$/../bing-qi/.idea/bing-qi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sms/.idea/sms.iml" filepath="$PROJECT_DIR$/../sms/.idea/sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vsirs/.idea/vsirs.iml" filepath="$PROJECT_DIR$/../vsirs/.idea/vsirs.iml" />
+    </modules>
+  </component>
+</project>
