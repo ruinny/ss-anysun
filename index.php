@@ -159,6 +159,18 @@
                     <td>DO-SPG节点</td>
                 </tr>
 
+                <tr>
+                    <td>3</td>
+                    <td>V2ray-ETH</td>
+                    <td>204.44.66.154</td>
+                    <td>49747</td>
+                    <td>a5ef1dfa-3009-4906-b03b-d5e5a9fa4c69</td>
+                    <td>233</td>
+                    <td>kcp</td>
+                    <td></td>
+                    <td>ETH-QN节点</td>
+                </tr>
+
 
                 </tbody>
             </table>
