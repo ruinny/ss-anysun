@@ -52,7 +52,7 @@
         <div class="col-md-4">
           <div class="card">
             <div class="card-body my-2 py-2">
-              <h4 class="card-title">更新日期：2018.8.15</h4>
+              <h4 class="card-title">更新日期：2018.8.16</h4>
               <h6 class="card-subtitle text-muted my-1">（为了应对各种风险，会不定期更新节点数据）</h6>
               <p class="card-text p-y-1 my-4 py-3"><b>本站主域名：<a href="http://ss.anysun.win">ss.anysun.win</a>
                 <br></b>本站备用域名：停止使用</p>
@@ -182,7 +182,39 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 py-4 mx-3">
-          <?php include 'new.html' ?>
+
+            <div class="preview html_preview"><div style="overflow: hidden; position: absolute; top: 0px; height: 1px; width: auto; padding: 0px; border: 0px; margin: 0px; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal;"><svg><defs id="MathJax_SVG_glyphs"></defs></svg></div><p><strong>更新记录：</strong><br>
+                    2018.8.16 新增加个ETH的节点，这个节点褒贬不一，大家自己试试吧。昨晚我移动油管能跑2w多，今早办公室也是移动不到4k。<br>
+                    2018.8.15 暂时不再做SSR节点了吧，分享两个还能用的V2ray节点，一个是DO-SPG的，一个是Virmach的圣塞何。<br>
+                    2018.5.28 新上一个DO的SPG节点，稳定使用一年。<br>
+                    2018.4.26 搞到一个AWS的码子，但是由于操作失误，只给了75刀，还是限制区域的。凑合用吧，最近手气不好。<br>
+                    2018.4.23 SS姿势找不对，改用Vemss吧，速度的话感觉不如ss。今后ss保留1个节点，Vmess1-2个节点吧。<br>
+                    2018.2.4 最近墙真的很高，三个节点全部报废，近期也不打算修复（因为有没用），静默......<br>
+                    2017.12.4 Hostus不能使用了，已删除。Dedi最近非常不问题，正在争议工单中。<br>
+                    2017.12.1 收了别人一个Dedicenter的美国小鸡，速度还不错，但是不稳定，大家先试试吧。<br>
+                    2017.12.1 123System的节点到期了，不在续费了。<br>
+                    2017.11.1 好久没来更新了，Hostu和System的节点陆续到期，可能不打算在续费了，实际上也没有几个人用。<br>
+                    2017.9.11 又有一个不错的消息，最近又搞到2、3个Github的学生包，免费啊，看来DO和AWS还能坚持挺长时间了。<br>
+                    2017.8.11 <s>Aws出现问题，已下线。<s>已恢复<br>
+                            2017.7.25 CAC和Hyper.sh的节点都下架了，因为不稳定。<br>
+                            <s>2017.6.9 盗链者请自重，以后会不定期更换密码和端口，但是暂时无心上sspanel，可以继续使用。</s><br>
+                            2017.6.8 修复了Hyper的节点，修复了DO的节点，修复了CAC节点。Hyper和CAC的不稳定，凑合用吧。<br>
+                            2017.6.7 （1）最近发现有人盗链，因此近期可能会修改密码，太无耻。</s>（2）DO的今天出现了问题，修复中。</s>（3）CAC的一直没修好。<br>
+                    <s>2017.5.6今天发现二维码失效了，抽空修复</s>已修复<br>
+                    2017.5.6 StudentPack中还赠送了AWS的150刀优惠，在东京开了一个节点，<span class="mark">BBR</span>，正在调试，择日开放。<br>
+                    2017.5.5 一个令人振奋的消息，我终于搞到了一个<span class="mark">Github的小黄书包（StudentPack）</span>，赠送了DO的50刀，因此增加了一个DO的旧金山的节点，速度非常好，流量大，<span class="mark">BBR</span>，不怕玩坏，使劲撸吧，可以撸一年。<br>
+                    2017.4.5 增加了一个Hyper的节点，免费的，余额能免费撸一年半。<br>
+                    2017.3.20 CAC时好时坏，一般要手工重启，大家凑合用吧。<br>
+                    <s>2017.3.9 CAC又down了，自从删掉重装后就不好用了，对这家实在无语了。</s><br>
+                    2017.2.23 CAC重新上线，这次加载了<span class="mark">BBR</span>，效果非常好。<br>
+                    2017.1.2 CAC最近可能不好用，调试一下BBR<br>
+                    <s>2016.12.30 Hostus支持pac代理，地址hostus.anysun.win/rui.pac</s><br>
+                    <s>2016.11.13 增加了一个CN2的直连节点</s><br>
+                    2016.4.14 增加了一个hostus的亚洲优化节点，推荐，流量大<br>
+                    <s>2016.4.1 新增了一个vultr的日本节点，国内ping100，速度非常好</s><br>
+                    2016.4.14 增加了一个123System的节点</p>
+            </div>
+
         </div>
       </div>
     </div>
